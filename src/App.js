@@ -7,6 +7,7 @@ function App() {
     <div>
       <Dinner dishName="Chicken Briyani" Days="Sunday" sweetDish="Kheer" />
       <Dinner dishName="Chicken Karahi" Days="Monday" sweetDish="Lab e Shireen" />
+      <Dinner dishName="Chicken Karahi" Days="Tuesday" sweetDish="Gajar ka Halwa" />
       </div>
   )
     
